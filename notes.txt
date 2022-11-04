@@ -1,0 +1,17 @@
+ReactNative  - react + native code 
+
+native code is nothing but just pre built components to be used 
+
+
+for example how do we display text into html ?
+
+<label>
+
+Here in react native we will be using components 
+
+View 
+
+From where View is gonna come 
+
+from react-native 
+
